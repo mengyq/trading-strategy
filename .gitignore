@@ -1,7 +1,27 @@
+﻿# Git忽略文件
 __pycache__/
 *.pyc
 .venv/
+.agents/
+.codex/
+
+# 输出目录（回测结果）
 outputs_v*/
+outputs_v2/
+outputs_v3/
+outputs_v4/
+outputs_v5/
+
+# 缓存数据（量大，不提交）
 outputs/factors_cache/
 outputs/fundamental_cache/
+
+# 用户持仓记录
 work/portfolio.json
+
+# 大文件
+*.psd
+*.log
+
+work/config.json
+work/trade_log.json
