@@ -1,11 +1,11 @@
 {
   "pushplus": {
-    "token": "YOUR_TOKEN"
+    "token": "YOUR_PUSHPLUS_TOKEN"
   },
   "email": {
-    "sender": "your@163.com",
-    "password": "SMTP_AUTH_CODE",
-    "receiver": "your@163.com",
+    "sender": "myq28518@163.com",
+    "password": "YOUR_SMTP_AUTH_CODE",
+    "receiver": "myq28518@163.com",
     "smtp_server": "smtp.163.com",
     "smtp_port": 465
   }
