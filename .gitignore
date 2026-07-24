@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+outputs_v*/
+outputs/factors_cache/
+outputs/fundamental_cache/
+work/portfolio.json
